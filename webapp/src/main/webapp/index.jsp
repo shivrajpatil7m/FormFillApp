@@ -9,6 +9,10 @@
     <input type="text" placeholder="name" name="name" id="name" required>
     <br>
 
+     <label for="Aadhar"><b>Aadhar</b></label>
+    <input type="text" placeholder="Aadhar" name="Aadhar" id="Aadhar" required>
+    <br>
+
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
