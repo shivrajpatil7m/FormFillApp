@@ -9,6 +9,11 @@
     <input type="text" placeholder="name" name="name" id="name" required>
     <br>
 
+    <label for="name"><b>version</b></label>
+    <input type="text" placeholder="version" name="version" id="version" required>
+    <br>
+
+
     <label for="jhant"><b>jhant"</b></label>
     <input type="text" placeholder="jhant" name="jhant" id="jhant" required>
     <br>
